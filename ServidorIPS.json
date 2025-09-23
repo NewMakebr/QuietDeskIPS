@@ -19,6 +19,11 @@
             "ip": "192.168.30.196",
             "control_port": 8080,
             "stream_port": 9090
+        },
+        {
+            "ip": "192.168.25.75",
+            "control_port": 8080,
+            "stream_port": 9090
         }
     ]
 }
